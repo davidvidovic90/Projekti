@@ -1,0 +1,40 @@
+/*table {
+	border:1px solid red;
+	border-collapse: collapse;
+	width: 100%;
+}*/
+
+
+table.view th {
+	text-align: center;
+	font-size: 25px;
+}
+
+table.view td {
+	text-align: center;
+	vertical-align: middle;
+	font-size: 35px;
+  }
+
+  table.input{ 
+	border-collapse: collapse;
+	border: 0;
+
+}
+
+table.input td {
+	border: 0;
+	font-size: 20px;
+	}
+	
+table.demo td {
+	text-align: center;
+	vertical-align: middle;
+	font-size: 27px;
+	}
+
+table.az td {
+	text-align: center;
+	vertical-align: middle;
+	font-size: 27px;
+	}
